@@ -1,6 +1,6 @@
 <h1 align="center"><img width="80%" height="300px" align="center" margin="100px" src="https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/></h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rambhu Mukhia</h1>
+<h1 align="center">Hi , I'm Rambhu Mukhia</h1>
 <h3 align="center">I'm a Full Stack Developer</h3>
 
 
