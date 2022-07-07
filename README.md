@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Netflix](https://project-netflix-brown.vercel.app/)**
 
-- 🌱 I’m currently learning **[TypeScript](https://www.typescriptlang.org/)**
+- 🌱 I’m currently learning **[Angular](https://angular.io/)**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-mukhiarambhu.vercel.app/)**
 
