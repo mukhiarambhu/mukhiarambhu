@@ -6,9 +6,7 @@
 
 ## 🙋‍♂️ About Me 
 
-- 🔭 I’m currently working on **[Netflix](https://project-netflix-brown.vercel.app/)**
-
-- 🌱 I’m currently learning **[Angular](https://angular.io/)**
+- 🌱 I’m currently learning **[Azure Devops](https://portal.azure.com/#home)**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-mukhiarambhu.vercel.app/)**
 
