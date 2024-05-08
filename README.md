@@ -42,12 +42,6 @@
 <!-- <a href="https://github.com/mukhiarambhu/github-readme-activity-graph"><img alt="Rambhu Mukhia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mukhiarambhu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 <!-- 
 <br/> -->
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/rambhu-mukhia-236462215/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/mukhiarambhu"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_mukhia/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
